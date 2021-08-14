@@ -1,0 +1,15 @@
+C:\Users\SONI\Desktop\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\bin\Debug\netstandard2.0\RockPaperScissors.Services.deps.json
+C:\Users\SONI\Desktop\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\bin\Debug\netstandard2.0\RockPaperScissors.Services.dll
+C:\Users\SONI\Desktop\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\bin\Debug\netstandard2.0\RockPaperScissors.Services.pdb
+C:\Users\SONI\Desktop\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.AssemblyInfoInputs.cache
+C:\Users\SONI\Desktop\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.AssemblyInfo.cs
+C:\Users\SONI\Desktop\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.dll
+C:\Users\SONI\Desktop\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.pdb
+E:\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\bin\Debug\netstandard2.0\RockPaperScissors.Services.deps.json
+E:\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\bin\Debug\netstandard2.0\RockPaperScissors.Services.dll
+E:\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\bin\Debug\netstandard2.0\RockPaperScissors.Services.pdb
+E:\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.csprojAssemblyReference.cache
+E:\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.AssemblyInfoInputs.cache
+E:\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.AssemblyInfo.cs
+E:\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.dll
+E:\RockPaperScissors-main\RockPaperScissors-main\RockPaperScissors.Services\obj\Debug\netstandard2.0\RockPaperScissors.Services.pdb
